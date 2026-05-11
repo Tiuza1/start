@@ -17,3 +17,25 @@ saidas_musicgen/
 # Arquivos de sistema Windows
 Thumbs.db
 desktop.ini
+
+# Pastas de backup
+backup/
+backup dias/
+backup script py/
+cliente backup/
+outros baups/
+backup placa/
+
+# Pastas pessoais/privadas
+- RAGANAROK/
+- Extrator pompt para SUNO/
+
+# Arquivos de texto pessoais
+regra chat.txt
+terminal VS CODE.txt
+NEWS.txt
+log_troca_pele.txt
+Novo Documento de Texto.txt
+
+# VS Code
+.vscode/
