@@ -1,8 +1,0 @@
-Simulação de geração
-prompt      : trap beat dark, 90 bpm, 808 forte
-ref_audio   : None
-mode        : melody
-model_size  : medium
-duration    : 8s
-top_k       : 250
-temperature : 1.0
