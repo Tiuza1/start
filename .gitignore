@@ -1,0 +1,19 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# XMLs temporários do ADB
+dialer.xml
+v.xml
+*.xml
+
+# Logs gerados automaticamente
+log_*.txt
+
+# Saídas geradas
+saidas_musicgen/
+
+# Arquivos de sistema Windows
+Thumbs.db
+desktop.ini
